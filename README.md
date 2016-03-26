@@ -9,5 +9,5 @@ wechat authentication
 users informations
 upload pictures
 
-APP
+Android APP
 
