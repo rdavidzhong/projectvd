@@ -1,6 +1,10 @@
 # projectvd
 online gallery 
 
+sections
+- balck & white
+- color
+- photography
 
 email authentication
 facebook authentication
